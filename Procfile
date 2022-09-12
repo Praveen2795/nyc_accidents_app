@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run nyc_accidents_app.py
